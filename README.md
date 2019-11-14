@@ -9,6 +9,8 @@ Taught by [Prof. Fang Song](https://fangsong.info/) from computer science depart
   - Homework 3: Q1, Q2, Q3
   - Homework 4: Q1, Q3, Q4
   - Homework 6: Q1, Q2.1, Q3
+  - Homework 7: Q1, Q2.1, Q3
+  - Homework 8: Q1, Q2, Q3
 - For the rest of the homeworks, everything was graded. 
 - Problems that were challenging and interesting (according to me) were:
   - Homework 1: Q6
