@@ -21,4 +21,7 @@ Taught by [Prof. Fang Song](https://fangsong.info/) from computer science depart
   - Homework 7: Q1, Q2, Q3
   - Homework 8: Q1, Q2, Q3
   - Homework 9: Q1, Q2, Q3
+  - Homework 10: Q1, Q2, Q3
+  - Homework 11: Q1, Q2, Q3, Q4
+  - Homework 12: Q1, Q2, Q3, Q4, Q5
 - I have provided a pdf with title "Collection of Interesting Problems in Algorithms". Please refer to do that for various problems on different topics. I have also provided solutions (which I think are right) for few them, but if you find any mistake please do contact me. My goal is to solve all the problems eventually. 
